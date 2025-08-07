@@ -39,7 +39,7 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ## 🔗 Connect With Me
 - [GitHub](https://github.com/mdtarikulislam1)
-- [LinkedIn](https://linkedin.com/in/mdtarikulislam1)
+- [LinkedIn]( www.linkedin.com/in/mdtorikul)
 - [Portfolio](https://splendid-sable-47345e.netlify.app/)
 
 ---
