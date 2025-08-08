@@ -13,7 +13,7 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ## 🚀 Currently Working On
 - Learning Next.js
-- Building a tourism website
+- Building a E-commers website
 - Solving CodeWars challenges
 
 ---
@@ -39,7 +39,7 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ## 🔗 Connect With Me
 - [GitHub](https://github.com/mdtarikulislam1)
-- [LinkedIn]( www.linkedin.com/in/mdtorikul)
+- [LinkedIn]( https://www.linkedin.com/in/mdtorikul/)
 - [Portfolio](https://splendid-sable-47345e.netlify.app/)
 
 ---
