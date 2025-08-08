@@ -1,21 +1,17 @@
 <!-- Banner Image (চাইলে এখানে যেকোনো ব্যানার ইমেজ লিংক দিতে পারো) -->
-
 ![Banner](https://i.postimg.cc/ydSXHk9r/2.png)
 
-# 👋 Hi, I'm Md Torikul Islam
-
+# 👋 Hi, I'm Md Torikul Islam  
 ### 💻 Frontend Developer | MERN Stack Developer
 
 ---
 
 ## 🧑‍💻 About Me
-
 I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building beautiful and responsive web applications using React, JavaScript, and Tailwind CSS.
 
 ---
 
 ## 🚀 Currently Working On
-
 - Learning Next.js
 - Building a E-commers website
 - Solving CodeWars challenges
@@ -23,28 +19,30 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ---
 
+
 ## 🛠️ Skills
+![HTML](https://img.shields.io/badge/-HTML5-orange)
+![CSS](https://img.shields.io/badge/-CSS3-blue)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![React](https://img.shields.io/badge/-React-61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-green)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)
+![Express.js](https://img.shields.io/badge/-Express.js-black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E)
+![Git](https://img.shields.io/badge/-Git-F05032)
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> HTML5  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> CSS3  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/> TailwindCSS  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/> Bootstrap  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> JavaScript  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> React  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> Node.js  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/> Firebase  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/> Express.js  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> MongoDB  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/> Figma  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> Git
 
 ---
 
 ## 🔗 Connect With Me
-
 - [GitHub](https://github.com/mdtarikulislam1)
-- [LinkedIn](https://www.linkedin.com/in/mdtorikul/)
+- [LinkedIn]( https://www.linkedin.com/in/mdtorikul/)
 - [Portfolio](https://splendid-sable-47345e.netlify.app/)
 
 ---
+
+
+
