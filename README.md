@@ -18,22 +18,21 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ---
 
-## 🛠️ Skills
 
-### Frontend
+## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/-HTML5-orange)
 ![CSS](https://img.shields.io/badge/-CSS3-blue)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-
-### Backend
+![React](https://img.shields.io/badge/-React-61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-green)
-![Express](https://img.shields.io/badge/-Express-black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28)
+![Express.js](https://img.shields.io/badge/-Express.js-black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E)
+![Git](https://img.shields.io/badge/-Git-F05032)
 
-### Tools
-![Git](https://img.shields.io/badge/-Git-black)
-![VS Code](https://img.shields.io/badge/-VSCode-blue)
-![Firebase](https://img.shields.io/badge/-Firebase-yellow)
 
 ---
 
