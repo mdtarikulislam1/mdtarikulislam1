@@ -1,5 +1,5 @@
 <!-- Banner Image (চাইলে এখানে যেকোনো ব্যানার ইমেজ লিংক দিতে পারো) -->
-![Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1350&q=80)
+![Banner](https://i.postimg.cc/ydSXHk9r/2.png)
 
 # 👋 Hi, I'm Md Torikul Islam  
 ### 💻 Frontend Developer | MERN Stack Developer
@@ -15,6 +15,7 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 - Learning Next.js
 - Building a E-commers website
 - Solving CodeWars challenges
+- Recap Javascript and React
 
 ---
 
@@ -43,9 +44,5 @@ I am a passionate frontend developer from Rajshahi, Bangladesh. I enjoy building
 
 ---
 
-## 📊 GitHub Stats
 
-![MdTorikulIslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdtarikulislam1&show_icons=true&theme=radical)
-
----
 
